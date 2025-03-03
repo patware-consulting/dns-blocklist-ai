@@ -22,7 +22,9 @@
 ||chaton.ai^
 ||chatopenai.de^
 ||claude.ai^
+||codegpt.co^
 ||copilot.microsoft.com^
+||copilot-proxy.githubusercontent.com
 ||craiyon.com^
 ||crushon.ai^
 ||deepai.org^
@@ -39,6 +41,7 @@
 ||galaxy.ai^
 ||gemini.google.com^
 ||genmo.ai^
+||githubcopilot.com^
 ||gpt3demo.com^
 ||gpt4free.io^
 ||gptchatly.com^
@@ -59,6 +62,8 @@
 ||novelai.net^
 ||o1gpt.org^
 ||openai.com^
+||origin-tracker.githubusercontent.com^
+||pentestgpt.ai^
 ||perchance.org^
 ||perplexity.ai^
 ||personal.ai^
